@@ -1,4 +1,3 @@
-from multiprocessing.connection import wait
 import turtle
 
 wn = turtle.Screen()
